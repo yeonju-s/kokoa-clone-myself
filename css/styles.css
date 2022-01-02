@@ -1,0 +1,17 @@
+@import "reset.css";
+@import "variables.css";
+
+/*-- Components --*/
+@import "components/statusbar.css";
+
+/*-- Screens --*/
+@import "screens/welcome.css";
+@import "screens/friends.css";
+
+body {
+  width: 100vw;
+  height: 100vh;
+  font-family: "Poppins", sans-serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
