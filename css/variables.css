@@ -1,0 +1,6 @@
+:root {
+  --grey: rgba(0, 0, 0, 0.5);
+  --yellow: rgb(250, 225, 0);
+  --horizontal--margin: 18px;
+  --main-border: 1px solid var(--grey);
+}
