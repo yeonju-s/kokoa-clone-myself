@@ -3,7 +3,9 @@
 
 /*-- Components --*/
 @import "components/statusbar.css";
-
+@import "components/screenheader.css";
+@import "components/user-component.css";
+@import "components/nav-bar.css";
 /*-- Screens --*/
 @import "screens/welcome.css";
 @import "screens/friends.css";
